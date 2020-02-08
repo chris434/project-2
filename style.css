@@ -1,137 +1,103 @@
 nav a {
-    text-decoration: none;
-    color: black;
-    font-size: 30px;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
 }
 
 nav a h3:hover {
-    text-decoration: none;
-    color: white;
-    border-bottom: solid white 5px;
-    -webkit-transform: scaleY(1.2);
-    transform: scaleY(1.2);
-    -webkit-transition: 1000ms;
-    transition: 1000ms;
-    cursor: pointer;
+  text-decoration: none;
+  color: white;
+  border-bottom: solid white 5px;
+  -webkit-transform: scaleY(1.2);
+          transform: scaleY(1.2);
+  -webkit-transition: 1000ms;
+  transition: 1000ms;
+  cursor: pointer;
 }
 
 nav a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .active-page {
-    border-bottom: solid white 5px;
-    color: white;
+  border-bottom: solid white 5px;
+  color: white;
 }
 
 .hamburger {
-    background-color: black;
-    width: 40px;
-    height: 4px;
-    cursor: pointer;
+  background-color: black;
+  width: 40px;
+  height: 4px;
+  cursor: pointer;
 }
 
 header {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 header ul li {
-    list-style: none;
+  list-style: none;
 }
 
 .popout-animaian {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .popout-animaian img:hover {
-    -webkit-transform: scale(1.2);
-    transform: scale(1.2);
-}
-
-.leftside {
-    background-color: yellow;
-    color: black;
-    font-size: 10px;
-    font-family: sans-serif;
-}
-
-.navlink ul li:hover {
-    color: orange;
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
 }
 
 footer {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 footer :hover {
-    background-color: chartreuse;
+  background-color: chartreuse;
 }
 
 .rightside {
-    font-family: sans-serif;
-    font-size: 30px;
+  font-family: sans-serif;
+  font-size: 30px;
 }
 
 .hr-style {
-    border: solid yellow 1px;
+  border: solid yellow 1px;
 }
 
 .information ul li {
-    color: yellow;
+  color: yellow;
 }
 
 .information em {
-    color: black;
+  color: black;
 }
 
 .information p {
-    font-size: 20px;
+  font-size: 30px;
 }
 
 .experience {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .menubt {
-    border: solid yellow 1px;
+  border: solid yellow 1px;
 }
 
 .menuhover:hover {
-    background-color: coral;
-    cursor: pointer;
+  background-color: coral;
+  cursor: pointer;
 }
 
 .subheader h1 {
-    color: yellow;
-    background-color: #1b1b1b;
-    font-size: 70x;
-}
-
-.hobies ul li {
-    list-style: none;
-}
-
-.contact ul li {
-    list-style: none;
-    font-size: 15px;
+  color: yellow;
+  background-color: #1b1b1b;
+  font-size: 70x;
 }
 
 .firstName-desktop {
-    color: yellow;
-    font-size: 50px;
+  color: yellow;
+  font-size: 50px;
 }
-
-.firstName-mobile {
-    color: orange;
-}
-
-.font-size {
-    font-size: 20px;
-}
-
-.refrences ul li {
-    list-style: none;
-}
-
-
 /*# sourceMappingURL=style.css.map */

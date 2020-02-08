@@ -31,7 +31,7 @@
                     }
                     
                     header {
-                        background-color: yellow;
+                        background-color: $primeryinformation;
                         ul li {
                             list-style: none;
                         }
@@ -44,21 +44,8 @@
                         }
                     }
                     
-                    .leftside {
-                        background-color: $primeryinformation;
-                        color: black;
-                        font-size: 10px;
-                        font-family: sans-serif;
-                    }
-                    
-                    .navlink {
-                        ul li:hover {
-                            color: orange;
-                        }
-                    }
-                    
                     footer {
-                        background-color: yellow;
+                        background-color: $primeryinformation;
                          :hover {
                             background-color: chartreuse;
                         }
@@ -81,7 +68,7 @@
                             color: black;
                         }
                         p {
-                            font-size: 20px;
+                            font-size: 30px;
                         }
                     }
                     
@@ -104,28 +91,7 @@
                         font-size: 70x;
                     }
                     
-                    .hobies ul li {
-                        list-style: none;
-                    }
-                    
-                    .contact ul li {
-                        list-style: none;
-                        font-size: 15px;
-                    }
-                    
                     .firstName-desktop {
                         color: $primeryinformation;
                         font-size: 50px;
-                    }
-                    
-                    .firstName-mobile {
-                        color: orange;
-                    }
-                    
-                    .font-size {
-                        font-size: 20px;
-                    }
-                    
-                    .refrences ul li {
-                        list-style: none;
                     }
